@@ -9,7 +9,7 @@ Slides and Code for the first AI4People workshop on the 8.+9. August 2020. We ap
 
 <img src="https://i.imgur.com/CLM9nQL.jpg" width="650">
 
-Recorded lectures will be made available at the [YouTube Channel of AI4People](https://www.youtube.com/channel/UC9Z4HmNVDFfTYx0OdW4ZAgw).
+Recorded lectures are available on the [YouTube Channel of AI4People](https://www.youtube.com/channel/UC9Z4HmNVDFfTYx0OdW4ZAgw).
 
 ### Citation
 ```
